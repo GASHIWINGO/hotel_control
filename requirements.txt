@@ -1,0 +1,5 @@
+PyQt6
+SQLAlchemy
+psycopg2-binary  # Драйвер для PostgreSQL
+passlib[bcrypt]  # Для хэширования паролей с bcrypt
+python-dotenv
